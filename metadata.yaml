@@ -1,0 +1,52 @@
+_repo: Red-Robin_19057
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Richards, Harriet Roosevelt
+    deathdate: 1932
+    gutenberg_agent_id: '8437'
+    url: http://www.gutenberg.org/2009/agents/8437
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jane
+    alias: Drake, Jane Ludlow
+    birthdate: 1881
+    deathdate: 1968
+    gutenberg_agent_id: '2227'
+    url: http://www.gutenberg.org/2009/agents/2227
+description: Moira O'Donnell who had never been farther than the boundaries of her
+  county knew the whole world was beautiful too. On a green hillside a girl lay prone
+  in the sweet grass, very still that she might not, by the slightest quiver, disturb
+  the beauty that was about her. There was so very, very much beauty - the sky, azure
+  blue overhead and paling where it touched the green-fringed earth; the whispering
+  tree under which she lay, the lush meadow grass, moving like waves of a sea, the
+  bird nesting above her, everything - And Moira O'Donnell, who had never been farther
+  than the boundaries of her county, knew the whole world was beautiful, too. Behind
+  her, hid in a hollow, stood the small cottage where, at that very moment, her grandmother
+  was preparing the evening meal. And, beyond, in the village was the little old stone
+  church and Father Murphy's square bit of a house with its wide doorstep and its
+  roof of thatch, and Widow Mulligan's and the Denny's and the Finnegan's and all
+  the others. Moira loved them all and loved the hospitable homes where there was
+  always, in spite of poverty, a bounty of good feeling. And before her, just beyond
+  that last steep rise, was the sea. She could hear its roar now, like a deep voice
+  drowning the clearer pipe of the winging birds and the shrill of the little grass
+  creatures.
+gutenberg_issued: '2006-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Poor children -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+title: Red-Robin
+url: http://www.gutenberg.org/ebooks/19057
